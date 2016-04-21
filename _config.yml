@@ -1,0 +1,28 @@
+name: garadi
+favicon: null
+layout_spectrum: 0.3824382515158504
+typography_spectrum: 0.4039621213451028
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5253293355926871
+  lightness: 0.5285192131996155
+  saturation: 0.336261689895764
+  rhythmicContrast: 0.8759677701164037
+purpose: []
