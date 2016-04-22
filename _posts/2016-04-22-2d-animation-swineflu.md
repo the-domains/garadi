@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Krishna Kaipa
-    url: 'https://www.youtube.com/user/kkaipa231968'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?time_continue=3&v=PVYMaCYCCeU'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - swine
@@ -21,7 +17,13 @@ keywords:
   - viruses
   - swineflu
 description: '2D Animation Traffic rules. We are a small group of animators and designers, We develop animated videos for presentations and E- Learning, advertising, TV sh...'
-inLanguage: en
+datePublished: '2016-04-22T03:26:34.106Z'
+dateModified: '2016-04-22T03:26:16.925Z'
+author:
+  - name: Krishna Kaipa
+    url: 'https://www.youtube.com/user/kkaipa231968'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=PVYMaCYCCeU&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?time_continue=3&v=PVYMaCYCCeU'
 title: 2D- Animation - Swineflu
-datePublished: '2016-04-22T03:15:11.688Z'
-dateModified: '2016-04-22T03:03:52.982Z'
 sourcePath: _posts/2016-04-22-2d-animation-swineflu.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
