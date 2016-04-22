@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Garadi Entertainments]]></title>
         <description><![CDATA[Garadi Entertainments]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/garadi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 03:15:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 03:15:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/garadi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2D- Animation - Swineflu]]></title>
+            <description><![CDATA[<article><h1>2D- Animation - Swineflu</h1><p>2D Animation Traffic rules. We are a small group of animators and designers, We develop animated videos for presentations and E- Learning, advertising, TV sh...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8412e3be7b8db66d19f43fb3fe915a5357eb720e.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?time_continue=3&amp;v=PVYMaCYCCeU</link>
+            <guid isPermaLink="false">9bd2fc8e-a0b4-4675-b9d7-aa6fbeeaafdc</guid>
+            <pubDate>Fri, 22 Apr 2016 03:15:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[millinium]]></title>
             <description><![CDATA[<article><h1>millinium</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d584ab2fd2ce187b6e0140b6996e4e44f71e7006.jpg"></article>]]></description>
